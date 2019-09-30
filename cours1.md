@@ -45,4 +45,19 @@ principaux freins
 - résistance au changement
 
 ## stratégie
-définir des objectifs et mettre en œuvre des moyens
+définir des objectifs et mettre en œuvre des moyens.   
+Comment fixer des objectifs ?
+SMART (Spécifique, Mesurable, Atteignable, Réaliste, Temporel)
+- Spécifique et simple
+- Mesurable
+- Accessible
+- Réaliste
+- Temporel   
+
+stratégie -> outil méthode et concepte   
+une stratégie est un processus systemique et dynamique impliquant des interactions entre plusieurs acteurs et reposant sur des variables différentes. C'est aussi un ensemnle de décisions qui oriente à long terme et de manière determinante les activités et la structurel de l'entreprise.
+
+### remise en cause du processus stratégiqie via ses variables
+- variables technico-économique
+- variables politiques
+- variables sociales
