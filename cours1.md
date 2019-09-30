@@ -61,3 +61,9 @@ une stratégie est un processus systemique et dynamique impliquant des interacti
 - variables technico-économique
 - variables politiques
 - variables sociales
+
+la croissance de l'économie parcipipative.   
+le m-commerce prend de plus en plus d'ampleur   
+nouveaux moyen de livraison pour de nouveaux usages   
+technologie au service de la livraison   
+nouveaux modes de travail   
