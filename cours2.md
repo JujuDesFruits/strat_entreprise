@@ -33,3 +33,25 @@ Et le contraire est aussi possible (ex windowsVista)
 
 ### la conception multifocale
 voir large + voir large.
+
+## définition structurelle de la stratégie
+5P de *Mintzeberg*
+- Plan - plannification
+- Ploy - stratagème
+- pattern - Modélisation
+- Position - Positionnement
+- Perspective
+
+## Mission vision valeurs
+ce sont les trois pilliers à la base de toute planification et influence du futur de l'entreprise.
+### La mission de l'entreprise
+définit de la façon la plus claire et la plus durable possible la raison d'être de l'entreprise ou ce pourquoi elle existe.   
+Cela permet de dire ce que l'entreprise fait, les segments de marché visées et rendre un caractère distinctif.
+### La vision
+doit projeter une image attrayante de l'avenir   
+énoncer la vision sert à :
+- réciser la directions
+- organiser l'action
+- proposer un cadre commun
+- donner un sens
+- présenter un défi
