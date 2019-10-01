@@ -67,3 +67,4 @@ le m-commerce prend de plus en plus d'ampleur
 nouveaux moyen de livraison pour de nouveaux usages   
 technologie au service de la livraison   
 nouveaux modes de travail   
+nouveaux mode de comm interne
