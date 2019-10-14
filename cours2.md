@@ -47,6 +47,7 @@ ce sont les trois pilliers à la base de toute planification et influence du fut
 ### La mission de l'entreprise
 définit de la façon la plus claire et la plus durable possible la raison d'être de l'entreprise ou ce pourquoi elle existe.   
 Cela permet de dire ce que l'entreprise fait, les segments de marché visées et rendre un caractère distinctif.
+
 ### La vision
 doit projeter une image attrayante de l'avenir   
 énoncer la vision sert à :
@@ -55,3 +56,13 @@ doit projeter une image attrayante de l'avenir
 - proposer un cadre commun
 - donner un sens
 - présenter un défi
+
+vision repose sur une étude d'opportunité et une annalyse de l'existant.   
+étude de faisabilité.   
+analyse comparative.
+
+définition de la vision par 4 Questions:
+qui comment pourquoi quoi
+
+### valeurs
+Les valeurs seont un ensemble de croyances collectivement partagées qui décrivent les comportements essentiels à la réalisation de la mission et de la vision de l'entreprise.
